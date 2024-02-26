@@ -13,7 +13,7 @@ Relogio digital em tempo real <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Lista de tarefas" src="./assets/relogio.png" width="100%">
+  <img alt="projeto Lista de tarefas" src=".Documents/Programação/Relogio-digital/assets/relogio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
